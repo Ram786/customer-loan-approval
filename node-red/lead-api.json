@@ -1,0 +1,1 @@
+[{"id":"656224ab.6301cc","type":"function","z":"2f77e5ba.8630da","name":"compareWebAppCibilScore","func":"return msg;\n\n","outputs":1,"noerr":0,"x":1412,"y":108,"wires":[["268e45a.11a52ba"]]}]
